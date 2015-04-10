@@ -23,13 +23,13 @@ var ConsultantListingPage = function(){
 // Tests
 describe('Protractor Demo App', function() {
 
-  it('should have a title', function() {
-    var consultantListingPage = new ConsultantListingPage();
-
-    consultantListingPage.get();
-
-    expect(consultantListingPage.getTitle()).toEqual('- My ASP.NET Application');
-  });
+  //it('should have a title', function() {
+  //  var consultantListingPage = new ConsultantListingPage();
+  //
+  //  consultantListingPage.get();
+  //
+  //  expect(consultantListingPage.getTitle()).toEqual('- My ASP.NET Application');
+  //});
 
   it('should have a listing of 5', function(){
     consultantListingPage = new ConsultantListingPage();
