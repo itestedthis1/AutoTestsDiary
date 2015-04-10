@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/test/E2E/consultant_detail_spec.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/E2E/consultant_listing_spec.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/E2E/title_E2E_spec.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/UI/title_UI_spec.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/page_objects/consultant_pages.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/page_objects/patient_pages.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/protractor.conf.js" charset="UTF-8" />
+  </component>
+</project>
